@@ -1,0 +1,17 @@
+// Return berapa minimal step yang diperlukan
+Function howManyStep(discs) {
+  Pindahkan Disk 1 dari menara A ke menara B.
+  Pindahkan Disk 2 dari menara A ke menara C.
+  Pindahkan Disk 1 dari menara B ke menara C.
+  Pindahkan Disk 3 dari menara A ke menara B.
+  Pindahkan Disk 1 dari menara C ke menara A.
+  Pindahkan Disk 2 dari menara C ke menara B.
+  Pindahkan Disk 1 dari menara A ke menara B.
+  Pindahkan Disk 1 dari menara B ke menara C.
+  Pindahkan Disk 2 dari menara B ke menara A.
+  Pindahkan Disk 1 dari menara C ke menara A.
+  Pindahkan Disk 3 dari menara B ke menara C.
+  Pindahkan Disk 1 dari menara A ke menara B.
+  Pindahkan Disk 2 dari menara A ke menara C.
+  Pindahkan Disk 1 dari menara B ke menara C.
+}
